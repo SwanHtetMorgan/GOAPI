@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PluginState">
+    <option name="returnTypeClassInfoList" value="[{&quot;className&quot;:&quot;misc&quot;,&quot;classExtension&quot;:&quot;xml&quot;},{&quot;className&quot;:&quot;jpa-buddy&quot;,&quot;classExtension&quot;:&quot;xml&quot;},{&quot;className&quot;:&quot;vcs&quot;,&quot;classExtension&quot;:&quot;xml&quot;},{&quot;className&quot;:&quot;controller&quot;,&quot;classExtension&quot;:&quot;go&quot;},{&quot;className&quot;:&quot;services&quot;,&quot;classExtension&quot;:&quot;go&quot;},{&quot;className&quot;:&quot;main&quot;,&quot;classExtension&quot;:&quot;go&quot;},{&quot;className&quot;:&quot;functional&quot;,&quot;classExtension&quot;:&quot;go&quot;},{&quot;className&quot;:&quot;Makefile&quot;},{&quot;className&quot;:&quot;bin&quot;},{&quot;className&quot;:&quot;my-plugin-state&quot;,&quot;classExtension&quot;:&quot;xml&quot;},{&quot;className&quot;:&quot;api&quot;,&quot;classExtension&quot;:&quot;go&quot;},{&quot;className&quot;:&quot;go&quot;,&quot;classExtension&quot;:&quot;sum&quot;},{&quot;className&quot;:&quot;AuthController&quot;,&quot;classExtension&quot;:&quot;go&quot;},{&quot;className&quot;:&quot;APIservices&quot;,&quot;classExtension&quot;:&quot;go&quot;}]" />
+  </component>
+</project>
